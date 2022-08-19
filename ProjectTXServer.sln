@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTXServer", "ProjectTXServer\ProjectTXServer.csproj", "{95088A57-2514-475C-AA93-A230183E5394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTXLibrary", "ProjectTXLibrary\ProjectTXLibrary.csproj", "{123D4E1D-3193-4BF9-9911-D5FB4443A8C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95088A57-2514-475C-AA93-A230183E5394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95088A57-2514-475C-AA93-A230183E5394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95088A57-2514-475C-AA93-A230183E5394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95088A57-2514-475C-AA93-A230183E5394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123D4E1D-3193-4BF9-9911-D5FB4443A8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123D4E1D-3193-4BF9-9911-D5FB4443A8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123D4E1D-3193-4BF9-9911-D5FB4443A8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123D4E1D-3193-4BF9-9911-D5FB4443A8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C8AE8F3-26A8-4CDD-9296-889BAA5AA57A}
+	EndGlobalSection
+EndGlobal
