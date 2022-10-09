@@ -55,7 +55,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_men1.PNG",
                     ProductDescription = "This is BST Product",
                     ProductIntro = "link clip",
-                    ProductRate = 1
+                    ProductRate = 1,
+                    ProductPrice = 80000f
                 },
                 new Product()
                 {
@@ -64,7 +65,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_men2.PNG",
                     ProductDescription = "Men T-shirt The Astronut",
                     ProductIntro = "link clip",
-                    ProductRate = 1
+                    ProductRate = 1,
+                    ProductPrice = 120000f
                 }
                 ,
                 new Product()
@@ -74,7 +76,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_men3.PNG",
                     ProductDescription = "The King man T shirt make by coton",
                     ProductIntro = "link clip",
-                    ProductRate = 3
+                    ProductRate = 3,
+                    ProductPrice = 1400000f
                 },
                 new Product()
                 {
@@ -83,7 +86,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_men4.PNG",
                     ProductDescription = "The Anti formalism T-shirt for men",
                     ProductIntro = "link clip",
-                    ProductRate = 3
+                    ProductRate = 3,
+                    ProductPrice = 4400000f
                 },
                 new Product()
                 {
@@ -92,7 +96,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_men5.PNG",
                     ProductDescription = "This is Unifas",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 5400000f
                 },
                 new Product()
                 {
@@ -101,7 +106,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_men6.PNG",
                     ProductDescription = "Make in china",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 140000f
                 },
                 new Product()
                 {
@@ -110,7 +116,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_men7.PNG",
                     ProductDescription = "This is YourName Product",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 1600000f
                 },
                 new Product()
                 {
@@ -119,7 +126,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_men8.PNG",
                     ProductDescription = "T-shirt smile, that is the best for you",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 6400000f
                 },
                 new Product()
                 {
@@ -128,7 +136,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_men9.PNG",
                     ProductDescription = "True choise for guy",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 740000f
                 },
                 new Product()
                 {
@@ -137,7 +146,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_men10.PNG",
                     ProductDescription = "That is Astronaut",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 96000f
                 },
                 new Product()
                 {
@@ -146,7 +156,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_women1.PNG",
                     ProductDescription = "Headsfer T-shirt for women1 have a passion with SWAG",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 990000f
                 },
                 new Product()
                 {
@@ -155,7 +166,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_women2.PNG",
                     ProductDescription = "This is women2",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 670000f
                 },
                 new Product()
                 {
@@ -164,7 +176,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_women3.PNG",
                     ProductDescription = "This is women3",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 450000f
                 },
                 new Product()
                 {
@@ -173,7 +186,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_women4.PNG",
                     ProductDescription = "This is women4",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 350000f
                 },
                 new Product()
                 {
@@ -182,7 +196,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_women5.PNG",
                     ProductDescription = "This is women5",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 950000f
                 },
                 new Product()
                 {
@@ -191,7 +206,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_women6.PNG",
                     ProductDescription = "This is women6",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 4250000f
                 },
                 new Product()
                 {
@@ -200,7 +216,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_women7.PNG",
                     ProductDescription = "This is women7",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 6750000f
                 },
                 new Product()
                 {
@@ -209,7 +226,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_women8.PNG",
                     ProductDescription = "This is women8",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 150000f
                 },
                 new Product()
                 {
@@ -218,7 +236,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_women9.PNG",
                     ProductDescription = "This is women9",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 45000f
                 },
                 new Product()
                 {
@@ -227,7 +246,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_women10.PNG",
                     ProductDescription = "This is women10",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 99000f
                 },
                 new Product()
                 {
@@ -236,7 +256,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_pantmen1.PNG",
                     ProductDescription = "This is pantman1",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 870000f
                 },
                 new Product()
                 {
@@ -245,7 +266,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_pantmen2.PNG",
                     ProductDescription = "This is pantman2",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 1400000f
                 },
                 new Product()
                 {
@@ -254,7 +276,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_pantmen3.PNG",
                     ProductDescription = "This is pantman3",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 1900000f
                 },
                 new Product()
                 {
@@ -263,7 +286,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_pantmen4.PNG",
                     ProductDescription = "This is pantman4",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 8000000f
                 },
                 new Product()
                 {
@@ -272,7 +296,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_pantmen5.PNG",
                     ProductDescription = "This is pantman5",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 980000f
                 },
                 new Product()
                 {
@@ -281,7 +306,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_pantwomen1.PNG",
                     ProductDescription = "This is pantwoman1",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 96000f
                 },
                 new Product()
                 {
@@ -290,7 +316,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_pantwomen2.PNG",
                     ProductDescription = "This is pantwoman2",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 4890000f
                 },
                 new Product()
                 {
@@ -299,7 +326,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_pantwomen3.PNG",
                     ProductDescription = "This is pantwoman3",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 234000f
                 },
                 new Product()
                 {
@@ -308,7 +336,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_pantwomen4.PNG",
                     ProductDescription = "This is pantwoman4",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 866000f
                 },
                 new Product()
                 {
@@ -317,7 +346,8 @@ namespace ProjectTXServer.Data.DataSeeding
                     ProductCover = "css/images/product_pantwomen5.PNG",
                     ProductDescription = "This is pantwoman5",
                     ProductIntro = "link clip",
-                    ProductRate = 5
+                    ProductRate = 5,
+                    ProductPrice = 477000f
                 });
 
 
